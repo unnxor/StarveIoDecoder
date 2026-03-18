@@ -104,8 +104,8 @@ Each pass simplifies the code and removes unnecessary structures.
 
 
 # Author
-DragonDragging
+unnxor
 
 # Contact
 If you find any bugs, please contact me on Discord with a detailed explanation:
-@dragondragging
+@unnxor
